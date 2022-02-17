@@ -1,5 +1,0 @@
-Por favor no cambiar el color 
-del boton, porque este es el 
-color de la empresa y tampoco
-modificar la disposicion de 
-los input
